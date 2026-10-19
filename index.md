@@ -1,23 +1,24 @@
 Du Yining
 About Me
-I am a postgraduate student at the University of Macau interested in Data Science and Data Analytics.
+I am a postgraduate student at the University of Macau interested in Data Science, Data Analytics, and Machine Learning.
 
 Technical Skills
 Python
 Pandas
 NumPy
+Data Visualization
 Seaborn
 Matplotlib
-GitHub
+Git & GitHub
 Project Showcase
-Flight Passenger Analysis
+Education, Salary and Working Hours Analysis
 Research Question
-How did airline passenger traffic change between 1949 and 1960?
+How does educational attainment influence annual salary and weekly working hours?
 
 Findings
-Passenger traffic increased significantly over the period and seasonal patterns were visible.
+The analysis indicates that higher educational attainment is associated with higher salary distributions. Visualizations also reveal differences in working hours and education group composition.
 
-Status
+Project Status
 Completed
 
 Project Repository
